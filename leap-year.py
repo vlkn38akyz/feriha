@@ -1,1 +1,1 @@
-
+print('edip degisiklik')
