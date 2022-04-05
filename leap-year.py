@@ -1,1 +1,1 @@
-print('edip degisiklik')
+print('edip degisiklik yapildi')
